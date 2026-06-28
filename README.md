@@ -38,17 +38,17 @@ Currently focusing on:
 ---
 
 <p align="center">
-  <img src="https://api.iconify.design/logos/python.svg" width="50" hspace="8"/>
-  <img src="https://api.iconify.design/logos/jupyter.svg" width="50" hspace="8"/>
-  <img src="https://api.iconify.design/logos/numpy.svg" width="50" hspace="8"/>
-  <img src="https://api.iconify.design/logos/pandas-icon.svg" width="50" hspace="8"/>
-  <img src="https://api.iconify.design/logos/matplotlib.svg" width="50" hspace="8"/>
-  <img src="https://api.iconify.design/logos/seaborn-icon.svg" width="50" hspace="8"/>
-  <img src="https://api.iconify.design/logos/mysql.svg" width="50" hspace="8"/>
-  <img src="https://api.iconify.design/logos/postgresql.svg" width="50" hspace="8"/>
-  <img src="https://api.iconify.design/logos/microsoft-power-bi.svg" width="50" hspace="8"/>
-  <img src="https://api.iconify.design/logos/tableau-icon.svg" width="50" hspace="8"/>
-  <img src="https://api.iconify.design/logos/git-icon.svg" width="50" hspace="8"/>
+  <img src="https://api.iconify.design/logos/python.svg" width="45" hspace="8"/>
+  <img src="https://api.iconify.design/logos/jupyter.svg" width="45" hspace="8"/>
+  <img src="https://api.iconify.design/logos/numpy.svg" width="45" hspace="8"/>
+  <img src="https://api.iconify.design/logos/pandas-icon.svg" width="45" hspace="15"/>
+  <img src="https://api.iconify.design/logos/matplotlib.svg" width="200" hspace="8"/>
+  <img src="https://api.iconify.design/logos/seaborn-icon.svg" width="45" hspace="8"/>
+  <img src="https://api.iconify.design/logos/mysql.svg" width="65" hspace="8"/>
+  <img src="https://api.iconify.design/logos/postgresql.svg" width="45" hspace="8"/>
+  <img src="https://api.iconify.design/logos/microsoft-power-bi.svg" width="45" hspace="8"/>
+  <img src="https://api.iconify.design/logos/tableau-icon.svg" width="45" hspace="8"/>
+  <img src="https://api.iconify.design/logos/git-icon.svg" width="45" hspace="8"/>
 </p>
 
 
