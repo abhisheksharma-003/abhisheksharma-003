@@ -58,38 +58,26 @@ Currently focusing on:
 <table>
 <tr>
 <td>
+<td width="50%">
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=abhisheksharma-003&show_icons=true&theme=default&hide_border=true#gh-light-mode-only"
+alt="GitHub Stats"/>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=abhisheksharma-003&show_icons=true&theme=github_dark&hide_border=true">
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=abhisheksharma-003&show_icons=true&theme=default&hide_border=true">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=abhisheksharma-003&show_icons=true&theme=default&hide_border=true"
-    alt="GitHub Stats" />
-</picture>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=abhisheksharma-003&show_icons=true&theme=github_dark&hide_border=true#gh-dark-mode-only"
+alt="GitHub Stats"/>
 
 </td>
 
 <td>
+<td width="50%">
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksharma-003&layout=compact&theme=default&hide_border=true#gh-light-mode-only"
+alt="Top Languages"/>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksharma-003&layout=compact&theme=github_dark&hide_border=true">
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksharma-003&layout=compact&theme=default&hide_border=true">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksharma-003&layout=compact&theme=default&hide_border=true"
-    alt="Top Languages" />
-</picture>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksharma-003&layout=compact&theme=github_dark&hide_border=true#gh-dark-mode-only"
+alt="Top Languages"/>
 
 </td>
 </tr>
@@ -97,19 +85,13 @@ Currently focusing on:
 
 <br>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com?user=abhisheksharma-003&theme=github-dark&hide_border=true">
+<img
+src="https://streak-stats.demolab.com?user=abhisheksharma-003&theme=default&hide_border=true#gh-light-mode-only"
+alt="GitHub Streak"/>
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://streak-stats.demolab.com?user=abhisheksharma-003&theme=default&hide_border=true">
-
-  <img
-    src="https://streak-stats.demolab.com?user=abhisheksharma-003&theme=default&hide_border=true"
-    alt="GitHub Streak" />
-</picture>
+<img
+src="https://streak-stats.demolab.com?user=abhisheksharma-003&theme=github-dark&hide_border=true#gh-dark-mode-only"
+alt="GitHub Streak"/>
 
 </div>
 
