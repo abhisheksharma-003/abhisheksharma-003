@@ -38,17 +38,17 @@ Currently focusing on:
 ---
 
 <p align="center">
-  <img src="https://api.iconify.design/logos/python.svg" height="40" hspace="8"/>
-  <img src="https://api.iconify.design/logos/jupyter.svg" height="40" hspace="8"/>
-  <img src="https://api.iconify.design/logos/numpy.svg" height="40" hspace="8"/>
-  <img src="https://api.iconify.design/logos/pandas-icon.svg" height="40" hspace="8"/>
-  <img src="https://api.iconify.design/logos/matplotlib.svg" height="40" hspace="8"/>
-  <img src="https://api.iconify.design/logos/seaborn-icon.svg" height="40" hspace="8"/>
-  <img src="https://api.iconify.design/logos/mysql.svg" height="40" hspace="8"/>
-  <img src="https://api.iconify.design/logos/postgresql.svg" height="40" hspace="8"/>
-  <img src="https://api.iconify.design/logos/microsoft-power-bi.svg" height="40" hspace="8"/>
-  <img src="https://api.iconify.design/logos/tableau-icon.svg" height="40" hspace="8"/>
-  <img src="https://api.iconify.design/logos/git-icon.svg" height="40" hspace="8"/>
+  <img src="https://api.iconify.design/logos/python.svg" height="50" hspace="8"/>
+  <img src="https://api.iconify.design/logos/jupyter.svg" height="50" hspace="8"/>
+  <img src="https://api.iconify.design/logos/numpy.svg" height="50" hspace="8"/>
+  <img src="https://api.iconify.design/logos/pandas-icon.svg" height="50" hspace="8"/>
+  <img src="https://api.iconify.design/logos/matplotlib.svg" height="50" hspace="8"/>
+  <img src="https://api.iconify.design/logos/seaborn-icon.svg" height="50" hspace="8"/>
+  <img src="https://api.iconify.design/logos/mysql.svg" height="50" hspace="8"/>
+  <img src="https://api.iconify.design/logos/postgresql.svg" height="50" hspace="8"/>
+  <img src="https://api.iconify.design/logos/microsoft-power-bi.svg" height="50" hspace="8"/>
+  <img src="https://api.iconify.design/logos/tableau-icon.svg" height="50" hspace="8"/>
+  <img src="https://api.iconify.design/logos/git-icon.svg" height="50" hspace="8"/>
 </p>
 
 
@@ -129,7 +129,7 @@ Currently focusing on:
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://iabhisheksharma-portfolio.vercel.app">
-    <img src="https://api.iconify.design/mdi:web.svg" height="40"/>
+    <img src="https://api.iconify.design/mdi:web.svg" height="60"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:iabhisheksharma.003@gmail.com">
@@ -138,8 +138,6 @@ Currently focusing on:
 </p>
 
 <div align="center">
-
-### ⭐ "Data tells a story. My goal is to uncover it and build solutions that create real-world impact."
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhisheksharma-003&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
