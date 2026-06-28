@@ -54,32 +54,64 @@ Currently focusing on:
 
 
 <div align="center">
+
 <table>
 <tr>
-<td width="50%">
+<td>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhisheksharma-003&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=abhisheksharma-003&show_icons=true&theme=github_dark&hide_border=true">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api?username=abhisheksharma-003&show_icons=true&theme=default&hide_border=true">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=abhisheksharma-003&show_icons=true&theme=default&hide_border=true"
+    alt="GitHub Stats" />
+</picture>
 
 </td>
 
-<td width="50%">
+<td>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksharma-003&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksharma-003&layout=compact&theme=github_dark&hide_border=true">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksharma-003&layout=compact&theme=default&hide_border=true">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksharma-003&layout=compact&theme=default&hide_border=true"
+    alt="Top Languages" />
+</picture>
 
 </td>
 </tr>
 </table>
+
+<br>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com?user=abhisheksharma-003&theme=github-dark&hide_border=true">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://streak-stats.demolab.com?user=abhisheksharma-003&theme=default&hide_border=true">
+
+  <img
+    src="https://streak-stats.demolab.com?user=abhisheksharma-003&theme=default&hide_border=true"
+    alt="GitHub Streak" />
+</picture>
+
 </div>
-
-<table width="100%">
-<tr>
-<td align="center">
-
-<img src="https://streak-stats.demolab.com?user=abhisheksharma-003&theme=github-dark&hide_border=true"/>
-
-</td>
-</tr>
-</table>
 
 ## Research Interests
 
