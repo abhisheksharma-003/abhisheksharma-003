@@ -77,10 +77,10 @@ Currently focusing on:
   <br>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=abhisheksharma-003&theme=github-dark&hide_border=true&border_radius=10">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=abhisheksharma-003&theme=default&hide_border=true&border_radius=10">
-    <img height="180em" src="https://streak-stats.demolab.com?user=abhisheksharma-003&theme=default&hide_border=true&border_radius=10" alt="GitHub Streak"/>
-  </picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=abhisheksharma-003&theme=github-dark&hide_border=true&border_radius=10&count_private=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=abhisheksharma-003&theme=default&hide_border=true&border_radius=10&count_private=true">
+  <img height="180em" src="https://streak-stats.demolab.com?user=abhisheksharma-003&theme=default&hide_border=true&border_radius=10&count_private=true" alt="GitHub Streak"/>
+</picture>
 
 </div>
 
