@@ -38,17 +38,17 @@ Currently focusing on:
 ---
 
 <p align="center">
-  <img src="https://api.iconify.design/logos/python.svg" height="60" hspace="8"/>
-  <img src="https://api.iconify.design/logos/jupyter.svg" height="60" hspace="8"/>
-  <img src="https://api.iconify.design/logos/numpy.svg" height="60" hspace="8"/>
-  <img src="https://api.iconify.design/logos/pandas-icon.svg" height="60" hspace="8"/>
-  <img src="https://api.iconify.design/logos/matplotlib.svg" height="60" hspace="8"/>
-  <img src="https://api.iconify.design/logos/seaborn-icon.svg" height="60" hspace="8"/>
-  <img src="https://api.iconify.design/logos/mysql.svg" height="60" hspace="8"/>
-  <img src="https://api.iconify.design/logos/postgresql.svg" height="60" hspace="8"/>
-  <img src="https://api.iconify.design/logos/microsoft-power-bi.svg" height="50" hspace="8"/>
-  <img src="https://api.iconify.design/logos/tableau-icon.svg" height="60" hspace="8"/>
-  <img src="https://api.iconify.design/logos/git-icon.svg" height="60" hspace="8"/>
+  <img src="https://api.iconify.design/logos/python.svg" width="50" hspace="8"/>
+  <img src="https://api.iconify.design/logos/jupyter.svg" width="50" hspace="8"/>
+  <img src="https://api.iconify.design/logos/numpy.svg" width="50" hspace="8"/>
+  <img src="https://api.iconify.design/logos/pandas-icon.svg" width="50" hspace="8"/>
+  <img src="https://api.iconify.design/logos/matplotlib.svg" width="50" hspace="8"/>
+  <img src="https://api.iconify.design/logos/seaborn-icon.svg" width="50" hspace="8"/>
+  <img src="https://api.iconify.design/logos/mysql.svg" width="50" hspace="8"/>
+  <img src="https://api.iconify.design/logos/postgresql.svg" width="50" hspace="8"/>
+  <img src="https://api.iconify.design/logos/microsoft-power-bi.svg" width="50" hspace="8"/>
+  <img src="https://api.iconify.design/logos/tableau-icon.svg" width="50" hspace="8"/>
+  <img src="https://api.iconify.design/logos/git-icon.svg" width="50" hspace="8"/>
 </p>
 
 
@@ -129,7 +129,7 @@ Currently focusing on:
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://iabhisheksharma-portfolio.vercel.app">
-    <img src="https://api.iconify.design/fluent:globe-24-filled.svg" height="50"/>
+    <img src="https://api.iconify.design/fluent:globe-24-filled.svg" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:iabhisheksharma.003@gmail.com">
