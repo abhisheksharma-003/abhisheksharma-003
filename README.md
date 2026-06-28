@@ -55,28 +55,32 @@ Currently focusing on:
 
 <div align="center">
 
-<table>
-<tr>
-<td>
+  <table>
+    <tr>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abhisheksharma-003&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&rank_icon=github">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=abhisheksharma-003&show_icons=true&theme=default&hide_border=true&border_radius=10&rank_icon=github">
+          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhisheksharma-003&show_icons=true&theme=default&hide_border=true&border_radius=10&rank_icon=github" alt="Abhishek's GitHub Stats"/>
+        </picture>
+      </td>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksharma-003&layout=compact&theme=github_dark&hide_border=true&border_radius=10&langs_count=8">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksharma-003&layout=compact&theme=default&hide_border=true&border_radius=10&langs_count=8">
+          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksharma-003&layout=compact&theme=default&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages"/>
+        </picture>
+      </td>
+    </tr>
+  </table>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=abhisheksharma-003&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&rank_icon=github"/>
+  <br>
 
-</td>
-
-<td>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksharma-003&layout=compact&theme=github_dark&hide_border=true&border_radius=10&langs_count=8"/>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img height="180em"
-src="https://streak-stats.demolab.com?user=abhisheksharma-003&theme=github-dark&hide_border=true&border_radius=10"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=abhisheksharma-003&theme=github-dark&hide_border=true&border_radius=10">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=abhisheksharma-003&theme=default&hide_border=true&border_radius=10">
+    <img height="180em" src="https://streak-stats.demolab.com?user=abhisheksharma-003&theme=default&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+  </picture>
 
 </div>
 
