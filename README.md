@@ -58,26 +58,16 @@ Currently focusing on:
 <table>
 <tr>
 <td>
-<td width="50%">
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=abhisheksharma-003&show_icons=true&theme=default&hide_border=true#gh-light-mode-only"
-alt="GitHub Stats"/>
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=abhisheksharma-003&show_icons=true&theme=github_dark&hide_border=true#gh-dark-mode-only"
-alt="GitHub Stats"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=abhisheksharma-003&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&rank_icon=github"/>
 
 </td>
 
 <td>
-<td width="50%">
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksharma-003&layout=compact&theme=default&hide_border=true#gh-light-mode-only"
-alt="Top Languages"/>
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksharma-003&layout=compact&theme=github_dark&hide_border=true#gh-dark-mode-only"
-alt="Top Languages"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksharma-003&layout=compact&theme=github_dark&hide_border=true&border_radius=10&langs_count=8"/>
 
 </td>
 </tr>
@@ -85,13 +75,8 @@ alt="Top Languages"/>
 
 <br>
 
-<img
-src="https://streak-stats.demolab.com?user=abhisheksharma-003&theme=default&hide_border=true#gh-light-mode-only"
-alt="GitHub Streak"/>
-
-<img
-src="https://streak-stats.demolab.com?user=abhisheksharma-003&theme=github-dark&hide_border=true#gh-dark-mode-only"
-alt="GitHub Streak"/>
+<img height="180em"
+src="https://streak-stats.demolab.com?user=abhisheksharma-003&theme=github-dark&hide_border=true&border_radius=10"/>
 
 </div>
 
